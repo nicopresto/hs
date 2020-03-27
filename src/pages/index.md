@@ -7,30 +7,27 @@ subheading: Supporting sustainable families and communities
 mainpitch:
   title: Why HealthScapes
   description: >
-    HealthScapes encompass animal, human, and plant health, as well as their drivers such as climate, disease, ecosystems, and human activity. These resources are intended to help families and communities build resilience against pandemics, climate change, and natural disasters.
+    HealthScapes encompass animal, human, and plant health, as well as their drivers such as climate, disease, ecosystems, and human activity. These resources are intended to help communities build resilience in the face of pandemics, climate change, and natural disasters.
 description: >
-  Healthy and sustainable homes and communities requires planning to address all of the drivers of health. This includes secure food supplies, public health, clean available water, and reliable energy. Here is a collection of resources to realize these goals:
+  Healthy and resilient communities require planning to address all of the drivers of health. This includes food security, wellness, clean water supplies, and reliable energy. Here is a collection of resources to help realize these goals:
 intro:
   blurbs:
     - image: /img/health.png
       text: >
-        Healthy communities require adequate medical services, planning, supplies, infrastructure, and preventative care. Here we present ways to ensure these needs before and during a crisis. We include resources for health planning, equipment checklists, medications, skill development, and building do-it-yourself (DIY) medical gear.
+        Healthy communities require adequate medical services, planning, supplies, infrastructure, and preventative care. Here we present ways to ensure these needs before, during, and after a crisis. We include resources for health planning, equipment checklists, medications, skill development, and do-it-yourself (DIY) medical gear.
     - image: /img/food.png
       text: >
-        Food security and the availability of healthy foods will help ensure resilience when faced with stressors such as a pandemic or natural disaster. Ensuring supply chains, emergency rations, harvesting wild foods, and growing local produce and proteins is critical.
+        Food security and the availability of healthy foods help ensure longterm resilience when faced with stressors such as a pandemics or disasters. Reliable supply chains, emergency rations, wild foods, and local food production are strategies to built security.
     - image: /img/energy.png
       text: >
-        Energy is vital for powering equipment, connecting to internet resources and multiplying the ability to do work. We have assembled resources to quantify and improve the energy resilience of your surroundings.
+        Energy is vital for powering equipment, connecting to internet resources, and multiplying the ability to do work. We have assembled resources to quantify and improve the energy resilience of your communities.
     - image: /img/water.png
       text: >
-        Water quantity and quality are essential to community health. Here we have compiled means to locate, purify, protect, and store water to ensure it is available during a crisis.
+        Water quantity and quality are paramount to community health. Here we have compiled means to locate, purify, protect, and store water to ensure availability throughout a crisis.
 
-  heading: What we offer
+  heading: What we provide
   description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+    Healthscapes is a curated set of resources for community resilience. We collate guides and best practices, tutorials, and checklists. Furthermore, we identify planning resources such as maps, data, software, and technology that can be leveraged to help you prepare.
 main:
   heading: Great coffee with no compromises
   description: >
