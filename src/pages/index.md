@@ -1,29 +1,29 @@
 ---
 templateKey: index-page
-title: Healthscapes
+title: HealthScapes
 image: /img/hs-bkg.jpg
-heading: Healthscapes
-subheading: Sustaining healthy communities
+heading: HealthScapes
+subheading: Supporting sustainable families and communities
 mainpitch:
-  title: Why Healthscapes
+  title: Why HealthScapes
   description: >
-    Healthscapes encompass animal, human, and plant health, as well as their drivers such as climate, emerging diseases, ecosystem change, and human activity. These resources are intended to help families and communities build resilience against pandemics, climate change, and natural disasters.
-description: >-
-  Healthscapes cover many sectors: food security, energy autonomy, medical infrastructure, water quality.
+    HealthScapes encompass animal, human, and plant health, as well as their drivers such as climate, disease, ecosystems, and human activity. These resources are intended to help families and communities build resilience against pandemics, climate change, and natural disasters.
+description: >
+  Healthy and sustainable homes and communities requires planning to address all of the drivers of health. This includes secure food supplies, public health, clean available water, and reliable energy. Here is a collection of resources to realize these goals:
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/health.png
       text: >
-        Food
-    - image: /img/coffee-gear.png
+        Healthy communities require adequate medical services, planning, supplies, infrastructure, and preventative care. Here we present ways to ensure these needs before and during a crisis. We include resources for health planning, equipment checklists, medications, skill development, and building do-it-yourself (DIY) medical gear.
+    - image: /img/food.png
       text: >
-        Energy
-    - image: /img/tutorials.png
+        Food security and the availability of healthy foods will help ensure resilience when faced with stressors such as a pandemic or natural disaster. Ensuring supply chains, emergency rations, harvesting wild foods, and growing local produce and proteins is critical.
+    - image: /img/energy.png
       text: >
-        Health
-    - image: /img/meeting-space.png
+        Energy is vital for powering equipment, connecting to internet resources and multiplying the ability to do work. We have assembled resources to quantify and improve the energy resilience of your surroundings.
+    - image: /img/water.png
       text: >
-        Water
+        Water quantity and quality are essential to community health. Here we have compiled means to locate, purify, protect, and store water to ensure it is available during a crisis.
 
   heading: What we offer
   description: >
